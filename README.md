@@ -1,2 +1,2 @@
-# webpack-4
-webpack4
+# webpack
+webpack4-vue-demo
